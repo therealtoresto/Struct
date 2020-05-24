@@ -17,6 +17,7 @@ int main() {
     p1.name = "Marcus";
     p1.city = "Roma";
     p1.born.day = 26;
+    p1.born.month = 4;
     p1.born.year = 121;
 
     printf(
