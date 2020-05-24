@@ -1,0 +1,22 @@
+{
+  "name": "struct",
+  "version": "1.0.0",
+  "description": "structures",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git remote add origin https://github.com/therealtoresto/Struct.git"
+  },
+  "keywords": [
+    "struct",
+    "structures"
+  ],
+  "author": "therealtoresto",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^7.1.0"
+  }
+}
